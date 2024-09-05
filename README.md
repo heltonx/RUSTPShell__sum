@@ -25,7 +25,7 @@ Rustc Version: rustc 1.80.1 (3f5fd8dd4 2024-08-06)
 =====================
 
 
-if you get the error 
+when executing the ps, if you get the error
 
 
 
