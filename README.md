@@ -9,9 +9,11 @@ cargo build
 
 in the file main.rs of the new project insert the content of the file main here
 
+in the file Cargo.toml add the content of the file here.
+
 add to the proj folder the invoker file
 
-change some fields in the invoker as the example in https://github.com/heltonx/CsharpPShell__PCinfoAPI
+change some fields in the invoker as the example in https://github.com/heltonx/CsharpPShell__PCinfoAPI . In resume add the name of the bin (example 659b464e1f5675401f18f255 ) as in the Bin folder, and the name of the api access, in the api key folder.
 
 Tested and compiled and runned in Windows 11
 
