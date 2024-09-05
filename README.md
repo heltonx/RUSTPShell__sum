@@ -9,7 +9,7 @@ cargo build
 
 in the file main.rs of the new project insert the content of the file main here
 
-in the file Cargo.toml add the content of the file here.
+in the file Cargo.toml add the content of the file cargo here. Or Just replace the files.
 
 add to the proj folder the invoker file
 
