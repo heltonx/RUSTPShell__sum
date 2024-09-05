@@ -1,7 +1,7 @@
 # RUSTPShell__sum
 sum of two variables is sent to a API
 
-
+Last test: September 4, 2024 21:29
 
 cargo new proj
 
